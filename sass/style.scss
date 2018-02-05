@@ -322,4 +322,24 @@ body {
     font: 16px $fonts;
   }
 
+  /* section .block-1*/
+  .about-us,
+  .services,
+  .what,
+  .contact-us {
+    margin: 20px auto;
+  
+  	fieldset {
+   	  width: 75%;
+  	}
+  	legend {
+      padding:0 40px;
+      font: 24px $fonts;
+  	}
+  	p {
+      font: 14px $fonts;
+      padding: 10px 30px;
+    } 
+
+  }
 }	

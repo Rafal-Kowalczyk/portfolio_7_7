@@ -382,5 +382,32 @@ body {
   .center-content h3 {
     font: 16px "Lato", sans-serif;
   }
+  /* section .block-1*/
+  .about-us,
+  .services,
+  .what,
+  .contact-us {
+    margin: 20px auto;
+  }
+  .about-us fieldset,
+  .services fieldset,
+  .what fieldset,
+  .contact-us fieldset {
+    width: 75%;
+  }
+  .about-us legend,
+  .services legend,
+  .what legend,
+  .contact-us legend {
+    padding: 0 40px;
+    font: 24px "Lato", sans-serif;
+  }
+  .about-us p,
+  .services p,
+  .what p,
+  .contact-us p {
+    font: 14px "Lato", sans-serif;
+    padding: 10px 30px;
+  }
 }
 /*# sourceMappingURL=style.prefixed.css.map */
