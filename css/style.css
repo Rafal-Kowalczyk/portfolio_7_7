@@ -348,6 +348,7 @@ body {
   }
 }
 
+/*  */
 @media (max-width: 767px) {
   /* hero */
   .center-content h1 {
@@ -374,7 +375,7 @@ body {
   .what legend,
   .contact-us legend {
     padding: 0 40px;
-    font: 24px "Lato", sans-serif;
+    font: 22px "Lato", sans-serif;
   }
   .about-us p,
   .services p,
@@ -382,6 +383,16 @@ body {
   .contact-us p {
     font: 14px "Lato", sans-serif;
     padding: 10px 30px;
+  }
+  /* section .block-3*/
+  .what-1 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  .what-1 h3 {
+    font: 18px "Lato", sans-serif;
+    letter-spacing: 3px;
+    margin: 10px auto;
   }
 }
 

@@ -27,7 +27,6 @@ body {
     margin: 0 auto;
     overflow: hidden;
 }
-
 /* hero */
   .hero {
     text-align: center;
@@ -64,7 +63,6 @@ body {
 	    line-height: 1.5;
     }
   }
-
   /* section .block-1*/
   .about-us,
   .services,
@@ -97,7 +95,6 @@ body {
 	    margin: 0;
     }
   }
-
   /* section .block-2*/
   .block-2 {
     display: flex;
@@ -108,7 +105,6 @@ body {
     color: $font-white;
     opacity: $opacity-img;
   }
-
   /* section .block-3*/
   .what-1 {
     margin-top: 50px;
@@ -124,7 +120,6 @@ body {
 	    text-transform: $text-uppercase;
     }
   }
-
   /* section .block-4*/
   .block-4 {
     min-height: 400px;
@@ -172,7 +167,6 @@ body {
   .flex-3 {
     flex: 3;
   }
-
   /* section .block-5*/
   .contact-us {
     width: 100%;
@@ -191,7 +185,6 @@ body {
 	    cursor: pointer;
   	}
   }
-
   /* section .footer*/
   .footer {
     text-align: center;
@@ -202,11 +195,10 @@ body {
 /*  */
 @media(min-width: 992px) and (max-width: 1199px){
 
-	/* hero */ 
+  /* hero */ 
   .center-content h3 {
     font: 18px $fonts;
   }
-
   /* section .block-1*/
   .about-us,
   .services,
@@ -226,7 +218,6 @@ body {
 	    padding: 20px 80px;
   	}
   }
-
   /* section .block-3*/
   .what-1 {
     margin-top: 50px;
@@ -237,7 +228,6 @@ body {
 	    margin: 10px 0;
 	 } 
   }
-
   /* section .block-5*/
   .contact-us button {
     width: 250px;
@@ -247,7 +237,6 @@ body {
 }
 
 /*  */
-
 @media(min-width: 768px) and (max-width: 991px){
 
   /* hero */
@@ -257,7 +246,6 @@ body {
   .center-content h3 {
     font: 16px $fonts;
   }
-
   /* section .block-1*/
   .about-us,
   .services,
@@ -277,7 +265,6 @@ body {
 	  padding: 20px 80px;
 	} 
   }
-
   /* section .block-3*/
   .what-1 {
     margin-top: 40px;
@@ -288,7 +275,6 @@ body {
 	  margin: 10px 0;
 	}
   }
-
   /* section .block-4*/
   .element h2 {
     margin: 5px;
@@ -300,7 +286,6 @@ body {
   .flex-3 {
     flex: 1;
   }
-
   /* section .block-5*/
   .contact-us button {
     width: 200px;
@@ -312,16 +297,16 @@ body {
     font: 16px $fonts;
   }
 }	
+/*  */
 @media(max-width: 767px){
 
-   /* hero */
+  /* hero */
   .center-content h1 {
     font: 40px $fonts;
   } 
   .center-content h3 {
     font: 16px $fonts;
   }
-
   /* section .block-1*/
   .about-us,
   .services,
@@ -334,12 +319,22 @@ body {
   	}
   	legend {
       padding:0 40px;
-      font: 24px $fonts;
+      font: 22px $fonts;
   	}
   	p {
       font: 14px $fonts;
       padding: 10px 30px;
     } 
+  }
+  /* section .block-3*/
+  .what-1 {
+    margin-top: 30px;
+    margin-bottom: 20px;
 
+    h3 {
+      font: 18px $fonts;
+      letter-spacing: 3px;
+      margin: 10px auto;
+    }
   }
 }	
