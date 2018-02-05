@@ -330,7 +330,7 @@ body {
     margin: 5px;
     font: 16px "Lato", sans-serif;
     padding-left: 10px;
-    top: 140px;
+    top: 60px;
   }
   .flex-2,
   .flex-3 {
@@ -393,6 +393,13 @@ body {
     font: 18px "Lato", sans-serif;
     letter-spacing: 3px;
     margin: 10px auto;
+  }
+  /* section .block-4*/
+  .element h2 {
+    margin: 5px;
+    font: 14px "Lato", sans-serif;
+    padding-left: 10px;
+    top: 60px;
   }
 }
 

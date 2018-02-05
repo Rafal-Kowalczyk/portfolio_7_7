@@ -280,7 +280,7 @@ body {
     margin: 5px;
     font: 16px $fonts;
     padding-left: 10px;
-    top: 140px;
+    top: 60px;
   }
   .flex-2,
   .flex-3 {
@@ -336,5 +336,12 @@ body {
       letter-spacing: 3px;
       margin: 10px auto;
     }
+  }
+  /* section .block-4*/
+  .element h2 {
+    margin: 5px;
+    font: 14px $fonts;
+    padding-left: 10px;
+    top: 60px;
   }
 }	
