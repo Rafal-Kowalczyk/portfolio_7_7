@@ -204,4 +204,23 @@ body {
   flex: 3;
 }
 
+/* section .block-5*/
+.contact-us {
+  width: 100%;
+}
+
+.contact-us button {
+  width: 350px;
+  height: 60px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background-color: #000;
+  color: #fff;
+  font: 20px "Lato", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  border: none;
+  cursor: pointer;
+}
+
 /*# sourceMappingURL=style.css.map */
