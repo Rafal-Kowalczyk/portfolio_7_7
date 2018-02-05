@@ -263,6 +263,15 @@ body {
     font: 18px "Lato", sans-serif;
     padding: 20px 80px;
   }
+  /* section .block-3*/
+  .what-1 {
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+  .what-1 h3 {
+    font: 26px "Lato", sans-serif;
+    margin: 10px 0;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -224,7 +224,18 @@ body {
   	p {
 	    font: 18px $fonts;
 	    padding: 20px 80px;
+  	}
   }
+
+  /* section .block-3*/
+  .what-1 {
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+    h3 {
+	    font: 26px $fonts;
+	    margin: 10px 0;
+	 } 
   }
 
 }	
