@@ -373,4 +373,14 @@ body {
     font: 16px "Lato", sans-serif;
   }
 }
+
+@media (max-width: 767px) {
+  /* hero */
+  .center-content h1 {
+    font: 40px "Lato", sans-serif;
+  }
+  .center-content h3 {
+    font: 16px "Lato", sans-serif;
+  }
+}
 /*# sourceMappingURL=style.prefixed.css.map */
