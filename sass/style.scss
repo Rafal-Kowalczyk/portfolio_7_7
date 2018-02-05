@@ -246,4 +246,16 @@ body {
   }  
 }
 
+/*  */
+
+@media(min-width: 768px) and (max-width: 991px){
+
+  /* hero */
+  .center-content h1 {
+    font: 50px $fonts;
+  } 
+  .center-content h3 {
+    font: 16px $fonts;
+  }
+
 }	

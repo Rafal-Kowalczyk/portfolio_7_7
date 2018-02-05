@@ -296,5 +296,22 @@ body {
     font: 26px "Lato", sans-serif;
     margin: 10px 0;
   }
+  /* section .block-5*/
+  .contact-us button {
+    width: 250px;
+    height: 40px;
+    font: 16px "Lato", sans-serif;
+  }
+}
+
+/*  */
+@media (min-width: 768px) and (max-width: 991px) {
+  /* hero */
+  .center-content h1 {
+    font: 50px "Lato", sans-serif;
+  }
+  .center-content h3 {
+    font: 16px "Lato", sans-serif;
+  }
 }
 /*# sourceMappingURL=style.prefixed.css.map */
