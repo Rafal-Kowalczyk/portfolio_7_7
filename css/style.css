@@ -231,5 +231,11 @@ body {
 }
 
 /*  */
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* hero */
+  .center-content h3 {
+    font: 18px "Lato", sans-serif;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */
