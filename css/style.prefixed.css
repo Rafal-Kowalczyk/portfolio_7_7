@@ -340,5 +340,14 @@ body {
     font: 16px "Lato", sans-serif;
     padding: 20px 80px;
   }
+  /* section .block-3*/
+  .what-1 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  .what-1 h3 {
+    font: 22px "Lato", sans-serif;
+    margin: 10px 0;
+  }
 }
 /*# sourceMappingURL=style.prefixed.css.map */
