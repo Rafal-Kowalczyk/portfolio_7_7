@@ -107,3 +107,19 @@ body {
     color: $font-white;
     opacity: $opacity-img;
   }
+
+  /* section .block-3*/
+  .what-1 {
+    margin-top: 50px;
+    margin-bottom: 40px;
+
+    .fa {
+    	margin: 10px;
+    }
+    h3 {
+    	margin: 20px 0;
+	    font: 32px $fonts;
+	    letter-spacing: 5px;
+	    text-transform: $text-uppercase;
+    }
+  }

@@ -135,4 +135,21 @@ body {
   color: #fff;
   opacity: 0.8;
 }
+
+/* section .block-3*/
+.what-1 {
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.what-1 .fa {
+  margin: 10px;
+}
+
+.what-1 h3 {
+  margin: 20px 0;
+  font: 32px "Lato", sans-serif;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
 /*# sourceMappingURL=style.prefixed.css.map */
