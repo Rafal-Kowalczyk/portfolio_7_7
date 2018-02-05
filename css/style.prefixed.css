@@ -349,5 +349,18 @@ body {
     font: 22px "Lato", sans-serif;
     margin: 10px 0;
   }
+  /* section .block-4*/
+  .element h2 {
+    margin: 5px;
+    font: 16px "Lato", sans-serif;
+    padding-left: 10px;
+    top: 140px;
+  }
+  .flex-2,
+  .flex-3 {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+  }
 }
 /*# sourceMappingURL=style.prefixed.css.map */

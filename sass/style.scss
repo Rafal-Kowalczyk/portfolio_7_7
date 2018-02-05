@@ -287,7 +287,18 @@ body {
 	  font: 22px $fonts;
 	  margin: 10px 0;
 	}
+  }
 
+  /* section .block-4*/
+  .element h2 {
+    margin: 5px;
+    font: 16px $fonts;
+    padding-left: 10px;
+    top: 140px;
+  }
+  .flex-2,
+  .flex-3 {
+    flex: 1;
   }
 
 }	
