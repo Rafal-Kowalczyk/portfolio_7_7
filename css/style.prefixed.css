@@ -246,4 +246,11 @@ body {
   border: none;
   cursor: pointer;
 }
+
+/* section .footer*/
+.footer {
+  text-align: center;
+  font: 20px "Lato", sans-serif;
+  text-decoration: none;
+}
 /*# sourceMappingURL=style.prefixed.css.map */
