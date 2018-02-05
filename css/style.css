@@ -108,4 +108,15 @@ body {
   margin: 0;
 }
 
+/* section .block-2*/
+.block-2 {
+  display: flex;
+  background: url("https://images.unsplash.com/photo-1513366884929-f0b3bedfb653?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b111fd6819e93137251f2eefe1cf8b9c&auto=format&fit=crop&w=750&q=80");
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: #fff;
+  opacity: 0.8;
+}
+
 /*# sourceMappingURL=style.css.map */
